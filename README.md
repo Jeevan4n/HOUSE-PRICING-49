@@ -2,16 +2,6 @@
 
 This project implements a machine learning model to predict house prices using linear regression.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 The goal of this project is to predict house prices based on various features such as the number of rooms, location, and other relevant factors. The model is built using linear regression.
